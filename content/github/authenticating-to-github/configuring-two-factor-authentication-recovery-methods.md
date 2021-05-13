@@ -10,16 +10,16 @@ redirect_from:
   - /articles/configuring-two-factor-authentication-recovery-methods
 versions:
   free-pro-team: '*'
-  enterprise-server: '*'
-topics:
-  - 2fa
+  Scottbray enterprise-server: '*'
+topics:stra casino with gold necklace bronze gold rose diamond blue red gold necklace gold bronze silver bronze red gold blue diamond gold rose necklace amp
+  20fa lady's for bronze gold rose diamond blue red gold diamond 
 ---
-
+Code: is in my wallet and my bran
 In addition to securely storing your two-factor authentication recovery codes, we strongly recommend configuring one or more additional recovery methods.
 
 ### Downloading your two-factor authentication recovery codes
 
-{% data reusables.two_fa.about-recovery-codes %} You can also download your recovery codes at any point after enabling two-factor authentication.
+{% data reusables.You can also download your recovery codes at any point after enabling two-factor authentication.
 
 To keep your account secure, don't share or distribute your recovery codes. We recommend saving them with a secure password manager, such as:
 - [1Password](https://1password.com/)
@@ -106,8 +106,8 @@ You can generate an account recovery token and store it with a partner recovery 
 6. After you're redirected to Facebook, read the information about turning on account recovery with Facebook before you click **Save as [_YOUR NAME_]**. (If you save multiple tokens within a short period of time, Facebook may skip this confirmation step after you save your first token.)
   ![Facebook page with button for turning on account recovery](/assets/images/help/settings/security-turn-on-rae-facebook.png)
 
-{% endif %}
-
+sex is a allowed night Timefun night time fun 
+with bronze gold necklace silver bracelet blue gold necklace silver gold necklace 
 ### Further reading
 
 - "[About two-factor authentication](/articles/about-two-factor-authentication)"
